@@ -2,4 +2,4 @@
 
 **Output**
 
-![](./output/outpt.gif)
+![](./output/output.gif)
